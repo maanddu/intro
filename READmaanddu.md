@@ -1,4 +1,4 @@
-# 👋 <span style="color:#0078D7; font-size: 30px;">안녕하세요! 저는 000입니다.</span>
+# 👋 <span style="color:#0078D7; font-size: 30px;">안녕하세요! 저는 이주연입니다.</span>
 
 <img src="img_000/profile.jpg" width="200" height="200" style="border-radius:50%;" alt="프로필 사진">
 
